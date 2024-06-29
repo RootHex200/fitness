@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="android.app" target="11" />
+      <module name="android.flutter_local_notifications" target="11" />
+      <module name="android.flutter_plugin_android_lifecycle" target="11" />
+      <module name="android.fluttertoast" target="11" />
+      <module name="android.geolocator_android" target="11" />
+      <module name="android.google_maps_flutter" target="11" />
+      <module name="android.google_mobile_ads" target="11" />
+      <module name="android.location" target="11" />
+      <module name="android.path_provider" target="11" />
+      <module name="android.pedometer" target="11" />
+      <module name="android.permission_handler" target="11" />
+      <module name="android.rate_my_app" target="11" />
+      <module name="android.share" target="11" />
+      <module name="android.shared_preferences" target="11" />
+      <module name="android.sqflite" target="11" />
+      <module name="android.url_launcher" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
